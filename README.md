@@ -1,7 +1,7 @@
 # 🎬 Muhammad Ali Shafi — Software Developer | Software Architect
 
 Hi there! 👋  
-I'm currently working on a **Long-Term Archive System** for film data powered by the **EN 15907 – Cinema Preservation Standard**.  
+I'm currently working on a **Long-Term Archive System** for film data powered by the **EN 17650 – Cinema Preservation Standard**.  
 💖 I enjoy turning concepts into reality using my coding skills.  
 🌱 Currently developing a **microservices-based application** architecture.
 
